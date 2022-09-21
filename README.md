@@ -2,30 +2,31 @@
 
 // -------------------------------------------------------------------- //
 
-// https://www.youtube.com/watch?v=n2B-FClr5rA
+[5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
 
-// 5 Coding Projects (from beginner to advanced)
+beginner
 
-// beginner
+- 2:44 Beginner Project #1 - Hello, World (seriously)
+- 3:25 Beginner Project #2 - Cooking (data types & functions)
+- 7:03 Beginner Project #3 - Tournament Simulation (OOP, data sctructures, etc.)
 
-// 2:44 Beginner Project #1 - Hello, World (seriously)
-// 3:25 Beginner Project #2 - Cooking (data types & functions)
-// 7:03 Beginner Project #3 - Tournament Simulation (OOP, data sctructures, etc.)
+intermediate
 
-// intermediate
+- 9:16 Intermediate Project - Web App w/ APILayer
 
-// 9:16 Intermediate Project - Web App w/ APILayer
+advanced
 
-// advanced
+- 15:25 Advanced Project - Content Management System
 
-// 15:25 Advanced Project - Content Management System
+Projects should fall under 1 of 2 categories to help you learn
 
-// Projects shoudl fall under 1 of 2 categories to help you learn
-
-// Hobby based
-// Tatical based
+- Hobby based
+- Tatical based
 
 // -------------------------------------------------------------------- //
+
+
+<!--
 
 // https://www.youtube.com/playlist?list=PLS46nnSnLF7ob6bgt2Xtn1iqj8wBKpq-N
 // https://www.youtube.com/playlist?list=PLpwngcHZlPaf1aw42OGyitm4jh2Dlmi9c
@@ -79,3 +80,5 @@
 // - Trello, clone
 // - LinkedIn, clone
 // - Twitter, clone
+
+-->
