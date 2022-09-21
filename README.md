@@ -1,8 +1,6 @@
 # Project Tool
 
-// -------------------------------------------------------------------- //
-
-[5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
+## [5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
 
 beginner
 
@@ -23,13 +21,7 @@ Projects should fall under 1 of 2 categories to help you learn
 - Hobby based
 - Tatical based
 
-// -------------------------------------------------------------------- //
-
-
 <!--
-
-// https://www.youtube.com/playlist?list=PLS46nnSnLF7ob6bgt2Xtn1iqj8wBKpq-N
-// https://www.youtube.com/playlist?list=PLpwngcHZlPaf1aw42OGyitm4jh2Dlmi9c
 
 // Invoicing System
 // Tag: Hobby based
