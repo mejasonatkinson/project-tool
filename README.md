@@ -1,7 +1,5 @@
 # Project Tool
 
----
-
 [5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
 
 beginner
@@ -28,8 +26,11 @@ Projects should fall under 1 of 2 categories to help you learn
 Presentation tool
 
 Tag: 
+
 - Hobby based
-Why: 
+ 
+Why:
+
 - I am very intrested in the art of presenting, and what makes a good presentation
 - My goal with this project idea would be not just to create a presentation tool, 
 - but to create a presentation tool which has some form of restrictions, almost like a Linter, would in programing. 
