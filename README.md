@@ -64,6 +64,154 @@ How:
 
 ---
 
+What:
+
+**Management Application**
+
+Category: 
+
+- Hobby based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+What:
+
+**Self-employment Application**
+
+Category: 
+
+- Hobby based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**Blog Website**
+
+Category: 
+
+- Tatical based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**Folio Website**
+
+Category: 
+
+- Tatical based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**E-commerce Website**
+
+Category: 
+
+- Tatical based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**Course/Quiz Website**
+
+Category: 
+
+- Tatical based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+**Clones**
+
+- Slack, clone
+- Twitch, clone
+- Facebook, clone
+- Reddit, clone
+- Youtube, clone
+- TikTok, clone
+- Discord, clone
+- Instagram, clone
+- Trello, clone
+- LinkedIn, clone
+- Notion, clone
+- Dendron, clone
+- DropBox, clone
+- Todoist, clone
+- Twitter, clone
+- Trello, clone
+- WhatsApp, clone
+- WordPress, clone
+- Wunderlist, clone
+- Outlook(Microsoft), clone
+- Gmail, clone
+- Fender, clone
+- Gibson, clone
+- Imdb, clone
+
+---
+
+**Content**
+
+- Star Wars
+- Star Trek
+- Marvel Cinematic Universe
+- DC Comics
+- The Hitchhikers Guide to the Galaxy
+- Ready Player 1 & 2
+- Lord of the Rings
+- Game of Thrones
+- Harry Potter
+
 
 
 <!--
@@ -95,18 +243,6 @@ How:
 // - Cover Letter Generator
 // - portfolio website
 
-// Clones
 
-// - Slack, clone
-// - Twitch, clone
-// - Facebook, clone
-// - Reddit, clone
-// - Youtube, clone
-// - TikTok, clone
-// - Discord, clone
-// - Instagram, clone
-// - Trello, clone
-// - LinkedIn, clone
-// - Twitter, clone
 
 -->
