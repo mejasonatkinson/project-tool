@@ -1,6 +1,6 @@
 # Project Tool
 
-[5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
+**[5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)**
 
 beginner
 
@@ -25,7 +25,7 @@ Projects should fall under 1 of 2 categories to help you learn
 
 What:
 
-Presentation tool
+**Presentation tool**
 
 Category: 
 
@@ -48,7 +48,7 @@ How:
 
 What:
 
-Guitar practise tool ([Guitar Tabs](https://github.com/mejasonatkinson/guitar-tabs))
+**Guitar practise tool ([Guitar Tabs](https://github.com/mejasonatkinson/guitar-tabs))**
 
 Category: 
 
