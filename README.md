@@ -1,6 +1,8 @@
 # Project Tool
 
-## [5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
+---
+
+[5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
 
 beginner
 
@@ -21,6 +23,22 @@ Projects should fall under 1 of 2 categories to help you learn
 - Hobby based
 - Tatical based
 
+---
+
+Presentation tool
+
+Tag: 
+- Hobby based
+Why: 
+- I am very intrested in the art of presenting, and what makes a good presentation
+- My goal with this project idea would be not just to create a presentation tool, 
+- but to create a presentation tool which has some form of restrictions, almost like a Linter, would in programing. 
+
+- Linter: Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs. The term originates from a Unix utility that examined C language source code.
+
+---
+
+
 <!--
 
 // Invoicing System
@@ -33,14 +51,7 @@ Projects should fall under 1 of 2 categories to help you learn
 // I always wished that I could streamline this process as it used to take me around a 1/2 hours to complete each month.
 // This could also be expanded to include my tax return records/spending, which is another process that takes alot of time for me to manage.
 
-// Presentation tool
-// Tag: Hobby based
-// Why: 
-// I am very intrested in the art of presenting, and what makes a good presentation
-// My goal with this project idea would be not just to create a presentation tool, 
-// but to create a presentation tool which has some form of restrictions, almost like a Linter, would in programing. 
 
-// Linter: Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs. The term originates from a Unix utility that examined C language source code.
 
 // -------------------------------------------------------------------- //
 
