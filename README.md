@@ -23,21 +23,47 @@ Projects should fall under 1 of 2 categories to help you learn
 
 ---
 
+What:
+
 Presentation tool
 
-Tag: 
+Category: 
 
 - Hobby based
  
 Why:
 
 - I am very intrested in the art of presenting, and what makes a good presentation
-- My goal with this project idea would be not just to create a presentation tool, 
-- but to create a presentation tool which has some form of restrictions, almost like a Linter, would in programing. 
+- My goal with this project idea would be not just to create a presentation tool, but to create a presentation tool which has some form of restrictions; almost like a Linter would in programing. 
 
-- Linter: Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs. The term originates from a Unix utility that examined C language source code.
+What is a Linter?
+
+- A Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs. The term originates from a Unix utility that examined C language source code.
+
+How:
+
+- ???
 
 ---
+
+What:
+
+Guitar practise tool ([Guitar Tabs](https://github.com/mejasonatkinson/guitar-tabs))
+
+Category: 
+
+- Hobby based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
 
 
 <!--
@@ -51,8 +77,6 @@ Why:
 // I then used adobe indesign, to create the final invoice to send to the client.
 // I always wished that I could streamline this process as it used to take me around a 1/2 hours to complete each month.
 // This could also be expanded to include my tax return records/spending, which is another process that takes alot of time for me to manage.
-
-
 
 // -------------------------------------------------------------------- //
 
