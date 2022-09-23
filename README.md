@@ -50,6 +50,10 @@ What:
 
 **Guitar practise tool ([Guitar Tabs](https://github.com/mejasonatkinson/guitar-tabs))**
 
+Alt: 
+
+- Instrument Tuner
+
 Category: 
 
 - Hobby based
@@ -67,6 +71,10 @@ How:
 What:
 
 **Management Application**
+
+Alt: 
+
+- To do List
 
 Category: 
 
@@ -91,7 +99,12 @@ Category:
  
 Why:
 
-- ???
+- I was self employed for 3 years, for them 3 years, I used 3 systems to try and handle and create my invoicing.
+- I used a tool called boost to track the ammount of hours I work on a given project. (**Time Tracking**)
+- And I then used a micrsoft spreadsheet, to calculate how much time should be charged. (**Accounting**)
+- I then used adobe indesign, to create the final invoice to send to the client. (**Invoicing**)
+- I always wished that I could streamline this process as it used to take me around a 1/2 hours to complete each month.
+- This could also be expanded to include my tax return records/spending, which is another process that takes alot of time for me to manage.
 
 How:
 
@@ -171,6 +184,103 @@ How:
 
 ---
 
+What:
+
+**Portfolio Website**
+
+Category: 
+
+- Tatical based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**Job Search Tool**
+
+Alt:
+
+- CV/Resume Generator
+- Cover Letter Generator
+- Job Finder
+- Application Population
+
+Category: 
+
+- Hobby based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**CMS (Content Management Systems)**
+
+Category: 
+
+- Tatical based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**LMS (Learning Management System)**
+
+Category: 
+
+- Tatical based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
+What:
+
+**Chess Game**
+
+Category: 
+
+- Hobby based
+ 
+Why:
+
+- ???
+
+How:
+
+- ???
+
+---
+
 **Clones**
 
 - Slack, clone
@@ -192,7 +302,8 @@ How:
 - WhatsApp, clone
 - WordPress, clone
 - Wunderlist, clone
-- Outlook(Microsoft), clone
+- Outlook (Microsoft), clone
+- Powerpoint (Microsoft), clone
 - Gmail, clone
 - Fender, clone
 - Gibson, clone
@@ -211,38 +322,4 @@ How:
 - Lord of the Rings
 - Game of Thrones
 - Harry Potter
-
-
-
-<!--
-
-// Invoicing System
-// Tag: Hobby based
-// Why: 
-// I was self employed for 3 years, for them 3 years, I used 3 systems to try and handle and present my invoicing.
-// I used a tool called boost to track the ammount of hours I work on a given project.
-// I then used a micrsoft spreadsheet, to calculate how much time should be charged.
-// I then used adobe indesign, to create the final invoice to send to the client.
-// I always wished that I could streamline this process as it used to take me around a 1/2 hours to complete each month.
-// This could also be expanded to include my tax return records/spending, which is another process that takes alot of time for me to manage.
-
-// -------------------------------------------------------------------- //
-
-// UN ORGANISED...
-
-// - Quiz
-// - Course
-// - Instrument Tuner
-// - CMS (Content Management Systems)
-// - To do List
-// - Invoice Generator
-// - Chess Game
-// - LMS (Learning Management System)
-// - Job Search Tool
-// - CV/Resume Generator
-// - Cover Letter Generator
-// - portfolio website
-
-
-
--->
+- Technology
