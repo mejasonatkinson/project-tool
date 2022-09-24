@@ -48,15 +48,21 @@ Tasks:
 
 [Google Search for: how to build a online presentation tool in javascript](https://www.google.com/search?q=how+to+build+a+online+presentation+tool+in+javascript&rlz=1C1CHBF_en-GBGB794GB794&biw=1620&bih=929&sxsrf=ALiCzsZeAw8UFpFoUctH3jmzyKLHvNU1bA%3A1664012593454&ei=MdEuY9StG7KMhbIP3q630AU&oq=how+to+build+a+online+presentation+tool+in+javas&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCCEQoAEQCjoKCAAQRxDWBBCwAzoECCMQJzoECC4QJzoFCAAQkQI6CwgAEIAEELEDEIMBOggILhCxAxCDAToFCAAQgAQ6EQguEIAEELEDEIMBEMcBENEDOgQIABBDOggIABCxAxCDAToICAAQgAQQyQM6CAguEIAEENQCOgYIABAeEBY6CQgAEB4QyQMQFjoFCAAQhgM6BAgAEA06BggAEB4QDToICCEQHhAWEB06BAghEBVKBAhBGABKBAhGGABQ7OoHWKOCCWCNiwloBHABeACAAYQBiAGTIJIBBDQwLjmYAQCgAQHIAQjAAQE&sclient=gws-wiz)
 
-**Top result**
+**Top results**
 
 [Create a Presentation Slide Website; Traversy Media](https://www.youtube.com/watch?v=uE1m21Umn0s)
 
-All they do is use another persons project called [webslides](https://github.com/webslides/webslides/)
+All they do is use another project called [webslides](https://github.com/webslides/webslides/) to create presentations in HTML, CSS & JS.
 
+[revealjs](https://revealjs.com/)
 
+For creating presentations in HTML, CSS & JS. This is **NOT** a presentation tool **MADE WITH**, HTML, CSS & JS
 
+What im looking for is more an application for making:
 
+[Google Slides](https://www.google.co.uk/slides/about/)
+[Prezi](https://prezi.com/)
+[Microsoft; Powerpoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
 - [ ] Learning
 
