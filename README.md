@@ -42,7 +42,34 @@ What is a Linter?
 
 How:
 
-- ???
+Tasks:
+
+- [ ] Researching
+
+[Google Search for: how to build a online presentation tool in javascript](https://www.google.com/search?q=how+to+build+a+online+presentation+tool+in+javascript&rlz=1C1CHBF_en-GBGB794GB794&biw=1620&bih=929&sxsrf=ALiCzsZeAw8UFpFoUctH3jmzyKLHvNU1bA%3A1664012593454&ei=MdEuY9StG7KMhbIP3q630AU&oq=how+to+build+a+online+presentation+tool+in+javas&gs_lcp=Cgdnd3Mtd2l6EAMYADIHCCEQoAEQCjoKCAAQRxDWBBCwAzoECCMQJzoECC4QJzoFCAAQkQI6CwgAEIAEELEDEIMBOggILhCxAxCDAToFCAAQgAQ6EQguEIAEELEDEIMBEMcBENEDOgQIABBDOggIABCxAxCDAToICAAQgAQQyQM6CAguEIAEENQCOgYIABAeEBY6CQgAEB4QyQMQFjoFCAAQhgM6BAgAEA06BggAEB4QDToICCEQHhAWEB06BAghEBVKBAhBGABKBAhGGABQ7OoHWKOCCWCNiwloBHABeACAAYQBiAGTIJIBBDQwLjmYAQCgAQHIAQjAAQE&sclient=gws-wiz)
+
+**Top result**
+
+- [Create a Presentation Slide Website; Traversy Media](https://www.youtube.com/watch?v=uE1m21Umn0s)
+
+
+
+
+- [ ] Learning
+
+- [ ] Create the screens needed
+
+  - [ ] Presentation screen (for presenting)
+  - Able to navigate from 1 screen to the next.
+  
+  - [ ] creation screen (for creation of slides/editing)
+  - When a slide is created or when a change is made, this will update a database
+  
+  - [ ] validation 
+  - A Error log which will appear, when trying to present a presentation IF the presentation doesn't meet certain criteria.
+
+- [ ] Security, Users
+- [ ] Put the project online
 
 ---
 
