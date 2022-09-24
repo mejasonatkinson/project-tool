@@ -61,7 +61,9 @@ For creating presentations in HTML, CSS & JS. This is **NOT** a presentation too
 What im looking for is more an application for making:
 
 [Google Slides](https://www.google.co.uk/slides/about/)
+
 [Prezi](https://prezi.com/)
+
 [Microsoft; Powerpoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 
 - [ ] Learning
