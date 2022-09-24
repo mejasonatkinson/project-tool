@@ -52,7 +52,7 @@ Tasks:
 
 [Create a Presentation Slide Website; Traversy Media](https://www.youtube.com/watch?v=uE1m21Umn0s)
 
-- All they do is use another persons project called [webslides](https://github.com/webslides/webslides/)
+All they do is use another persons project called [webslides](https://github.com/webslides/webslides/)
 
 
 
